@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<!-- saved from url=(0042)file:///C:/Users/Acer/Desktop/vazifa4.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<title>lesson1</title>
+</head>
+<body><h1> Talabalar haqida ma'lumot</h1>
+
+	<table border="4">
+<tbody><tr><th><font size="4"> FIO </font></th><th>TUG'ILGAN SANASI</th><th>TUG'ILGAN JOYI</th><th>O'qish joyi</th>
+</tr><tr><td>Aliboyeva Nilufar</td><td>16.11.2000</td><td>Zomin tumani </td><td>UzMU Jizzax filiali</td></tr>
+<tr><td>Tog'ayeva Mohira</td><td>04.09.2001</td><td>Zarbdor tumani </td><td>UzMU Jizzax filiali</td></tr>
+<tr><td>Boltayeva Maftuna</td><td>28.12.2000</td><td>Forish tumani </td><td>UzMU Jizzax filiali</td></tr>
+
+</tbody></table></body></html>
